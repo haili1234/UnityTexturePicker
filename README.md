@@ -4,11 +4,11 @@ Unity project for pick a texture from native gallery and real camera.（About  A
 
 项目借鉴：
 
-1、UnityNativeGallery
+1、UnityNativeGallery：
 https://github.com/yasirkula/UnityNativeGallery
 
-2、UnityNativeCamera
+2、UnityNativeCamera：
 https://github.com/yasirkula/UnityNativeCamera
 
-3、UnityNativeScripting
+3、UnityNativeScripting：
 https://github.com/jacksondunstan/UnityNativeScripting
