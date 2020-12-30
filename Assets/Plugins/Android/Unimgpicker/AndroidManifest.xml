@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kakeragames.unimgpicker">
+  <uses-feature android:name="android.hardware.camera" android:required="false" />
+  <application>
+    <provider
+      android:name="com.yasirkula.unity.NativeCameraContentProvider"
+      android:authorities="MY_UNIQUE_AUTHORITY"
+      android:exported="false"
+      android:grantUriPermissions="true" />
+  </application>
+</manifest>
